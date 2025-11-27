@@ -1,4 +1,4 @@
-# Precious Enahoro - Beyond Farming - Financial Inclusion and Livelihood Analysis
+# Beyond Farming - Financial Inclusion and Livelihood Analysis
 
 ## Overview
 This project explores how smallholder farmers discuss financial topics such as market prices, credit access, savings, and other non-farming livelihood concerns, to better understand their economic realities, challenges and opportunities for inclusion through financial tools, information to manage risk and investments in productivity. This analysis would inform Producer Direct's support for farmer entrepreneurship, market access, and rural financial systems.
@@ -11,17 +11,18 @@ This project explores how smallholder farmers discuss financial topics such as m
 ## Key Findings
 
 ### Financial conversations make up only 7.74% of all farmer questions, yet they are highly concentrated around market prices.
-![Key Finding 1](Challenge 5_ Financial Inclusion/Precious Enahoro/key-finding-vizzes/Key Finding 1.png)
+![Key Finding 1](https://github.com/PreciousEnahoro/datakit-smallholder-farmers-fall-2025/blob/main/Challenge%205_%20Financial%20Inclusion/Precious%20Enahoro/key-finding-vizzes/Key%20Finding%201.png)
 
 Although fewer than 1 in 10 farmer questions are financial in nature, the majority of those inquiries focus on market price discovery and market access. Farmers consistently ask:
 
    - *“How much is X selling for?”*
    - *“What is the current market price?”*
    - *“Where can I sell?”*
-   - 
+     
 **This shows that even within a small financial segment, market transparency is the dominant financial need, and price information remains a major friction point for farmers across crops and countries.**
 
 **Implications for Producers Direct:**
+
 Producers Direct should:
 1. Expand coverage of price data across more markets, crops, and regions.
 2. Work with local partners to verify and update prices more frequently.
