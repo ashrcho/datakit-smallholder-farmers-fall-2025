@@ -1,7 +1,7 @@
-# [Your Name] - [Challenge Name] Analysis
+# Precious Enahoro - Beyond Farming - Financial Inclusion and Livelihood Analysis
 
 ## Overview
-Brief description of what you're analyzing and why it matters for Producers Direct and smallholder farmers.
+This project explores how smallholder farmers discuss financial topics such as market prices, credit access, savings, and other non-farming livelihood concerns, to better understand their economic realities, challenges and opportunities for inclusion through financial tools, information to manage risk and investments in productivity. This analysis would inform Producer Direct's support for farmer entrepreneurship, market access, and rural financial systems.
 
 ## Research Questions
 - Question 1: What specific question are you trying to answer?
