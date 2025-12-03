@@ -22,7 +22,7 @@ This function created to understand the data in more detail and it shows shape,d
   <img src="images_from_analysis/missing_and_unique_values.png" />
 </p>
 <p align="center">
-  <b>Missing and Unique Values/b>
+  <b>Missing and Unique Values</b>
 </p>
 
 ## detailed_missing_value_analysis() 
@@ -32,7 +32,7 @@ In order to analyze distribution of missing values in every country i prepared t
   <img src="images_from_analysis/specifi_missing_values_analysis.png" />
 </p>
 <p align="center">
-  <b>Distribution of Missing Values/b>
+  <b>Distribution of Missing Values</b>
 </p>
 ## finding_unnecessary_cols()
 It's so important to drop unnecessary columns because they may be waste of time, for instance some of the countries have 0 or 1 unique value in their columns and these columns can't give any usable information so we drop them
@@ -41,7 +41,7 @@ It's so important to drop unnecessary columns because they may be waste of time,
   <img src="images_from_analysis/drop_unnecessary_cols.png" />
 </p>
 <p align="center">
-  <b>Filling NaN and Dropping Columns/b>
+  <b>Filling NaN and Dropping Columns</b>
 </p>
 
 ## making_rows_unique()
