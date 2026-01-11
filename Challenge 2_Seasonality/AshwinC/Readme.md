@@ -115,12 +115,6 @@ outputs:
 
 ---
 
-# LLM-Use Acknowledgement
-  I used an LLM to categorize topics, help with coding errors, and help with  
-  producing graphs.
-
----
-
 # Further Analysis
 - Using NLP to analyze the actual question to give us topics with added detail  
   would be extremely beneficial. All we know about this data through  
