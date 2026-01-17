@@ -56,7 +56,7 @@ eng_data.csv was created by a volunteer (Bashir), and is an English only version
 
 
 ### Categorization
-I used an LLM to help sort the actual topics into broader categories:
+Sorted the actual topics into broader categories:
 
 1) Livestock - (pig, cattle, goat, sheep, etc.)  
 2) Poultry - (chicken, turkey, guinea-fowl, etc.)  
